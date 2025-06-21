@@ -202,7 +202,4 @@ Use cross-validation for more reliable model evaluation.
 
 Expand dataset with more flower types or noisy real world data
 
-Help write your LinkedIn post caption next?
 
-
-Let me know how you'd like to proceed.
