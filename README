@@ -150,7 +150,7 @@ Classification Report (Precision, Recall, F1-Score)
 
 1. Clone the repo:
 
-git clone https://github.com/yourusername/CodeAlpha_IrisFlowerClassification.git
+git clone https://github.com/Sarika-pansare/CodeAlpha_IrisFlowerClassification.git
 cd CodeAlpha_IrisFlowerClassification
 
 
